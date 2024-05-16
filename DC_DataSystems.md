@@ -1,7 +1,7 @@
 # Data System ETL
 
 ```mermaid
-flowchart LR
+flowchart TD
 A[PowerSchool] -->|Get money| B(Go shopping)
 B --> C{Let me think}
 C -->|One| D[Laptop]
